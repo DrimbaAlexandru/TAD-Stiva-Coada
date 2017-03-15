@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1464806518 source:c:\users\alex\desktop\programare\faculta\nimrod\main.cpp
+	<iostream>
+	"TAD.h"
+	<stdlib.h>
+	<sys/time.h>
+
+1464806555 c:\users\alex\desktop\programare\faculta\nimrod\include\tad.h
+	"DinVect.h"
+
+1464613872 c:\users\alex\desktop\programare\faculta\nimrod\include\dinvect.h
+
+1464610941 source:c:\users\alex\desktop\programare\faculta\nimrod\src\dinvect.cpp
+	"DinVect.h"
+
